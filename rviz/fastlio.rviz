@@ -137,13 +137,13 @@ Visualization Manager:
       Enabled: true
       Invert Rainbow: false
       Max Color: 255; 255; 255
-      Max Intensity: 153
+      Max Intensity: 150
       Min Color: 0; 0; 0
       Min Intensity: 0
       Name: CloudRegistered
       Position Transformer: XYZ
       Selectable: true
-      Size (Pixels): 3
+      Size (Pixels): 1
       Size (m): 0.009999999776482582
       Style: Points
       Topic:
@@ -177,7 +177,7 @@ Visualization Manager:
       Name: CloudEffected
       Position Transformer: XYZ
       Selectable: true
-      Size (Pixels): 3
+      Size (Pixels): 1
       Size (m): 0.009999999776482582
       Style: Points
       Topic:
@@ -205,13 +205,13 @@ Visualization Manager:
       Enabled: true
       Invert Rainbow: false
       Max Color: 255; 255; 255
-      Max Intensity: 173
+      Max Intensity: 176
       Min Color: 0; 0; 0
       Min Intensity: 0
       Name: CloudMap
       Position Transformer: XYZ
       Selectable: true
-      Size (Pixels): 2
+      Size (Pixels): 1.5
       Size (m): 0.009999999776482582
       Style: Points
       Topic:
@@ -270,25 +270,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz_default_plugins/Orbit
-      Distance: 7.023468971252441
+      Distance: 8.570821762084961
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: -0.19115754961967468
-        Y: -0.490951269865036
-        Z: -0.3236221671104431
+        X: 1.8111135959625244
+        Y: 1.0028367042541504
+        Z: -0.490902841091156
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.4397968351840973
+      Pitch: 0.9897969961166382
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz_default_plugins)
-      Yaw: 4.223089694976807
+      Yaw: 3.4726593494415283
     Saved: ~
 Window Geometry:
   Displays:
@@ -306,5 +306,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1850
-  X: 388
-  Y: 1467
+  X: 70
+  Y: 27
